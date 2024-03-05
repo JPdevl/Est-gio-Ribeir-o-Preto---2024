@@ -1,0 +1,12 @@
+Primeiro, vamos acender o 1º interruptor e deixá-lo ligado por alguns minutos.
+Em seguida, desligamos ele e acendemos o 2º
+
+Agora partimos para a primeira sala.
+Se a lâmpada estiver acesa, essa sala corresponde ao 2º interruptor.
+
+Vamos para a segunda sala.
+Se a lâmpada estiver desligada, devemos verificar a temperatura dela.
+Se a lâmpada estiver fria, quer dizer que essa sala corresponde ao 3º interruptor,
+se não, a sala corresponde ao 1º interruptor.
+
+Essa lógica serve para descobrir qual interruptor é ligado a qualquer uma das salas.
